@@ -13,6 +13,11 @@ Leveraging Generative AI by Using GAN's and DCGAN's to generate Synthetic Data a
 
 5- Postprocess the synthetic data: If necessary, reverse any preprocessing steps (like normalization) on the generated data to bring it back to the original scale and format.
 
+
+![image](https://github.com/pratik3336/Leveraging-Generative-AI-for-Breakthroughs-in-Financial-Stock-Data/assets/76115015/042e7be6-ef7a-4973-9ceb-843bdf92b59e)
+
+
+
 #**How Beneficial is the the Data generated from GANS???**
 
 
