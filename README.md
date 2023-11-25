@@ -1,6 +1,4 @@
-# Leveraging-Generative-AI-for-Breakthroughs-in-Financial-Stock-Data and Image Data
-
-Introduction to Generative AI and Synthetic Data Generation
+# Leveraging-Generative-AI-for-Breakthroughs-in-Financial-Stock-Data and Image-Data
 
 # Objective:
 
