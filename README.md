@@ -1,5 +1,14 @@
-# Leveraging-Generative-AI-for-Breakthroughs-in-Financial-Stock-Data
-Leveraging Generative AI by Using GAN's and DCGAN's to generate Synthetic Data and Images
+# Leveraging-Generative-AI-for-Breakthroughs-in-Financial-Stock-Data and Image Data
+
+Introduction to Generative AI and Synthetic Data Generation
+
+# Objective:
+
+This project is a journey through the fascinating world of Generative Artificial Intelligence (AI), a field that sits at the cutting edge of data science and machine learning. Generative AI refers to the subset of AI techniques capable of creating new data instances that resemble the training data.
+
+Generative AI is particularly relevant in today’s data-driven landscape, where the ability to generate high-quality synthetic data can overcome challenges related to privacy, data scarcity, and data diversity. One of the most potent forms of generative AI is the Generative Adversarial Network (GAN)and DCGAN's, which has gained prominence for its ability to produce highly realistic data.
+
+
 
 #**Here's the process to generate Data using GAN's:**
 
