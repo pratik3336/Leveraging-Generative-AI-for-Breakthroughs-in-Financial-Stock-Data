@@ -6,6 +6,7 @@ This project is a journey through the fascinating world of Generative Artificial
 
 Generative AI is particularly relevant in today’s data-driven landscape, where the ability to generate high-quality synthetic data can overcome challenges related to privacy, data scarcity, and data diversity. One of the most potent forms of generative AI is the Generative Adversarial Network (GAN)and DCGAN's, which has gained prominence for its ability to produce highly realistic data.
 
+<img width="1035" alt="Screenshot 2023-11-25 at 3 02 43 PM" src="https://github.com/pratik3336/Leveraging-Generative-AI-for-Breakthroughs-in-Financial-Stock-Data/assets/76115015/24b82955-d205-465c-8d5b-dc718f3ac12c">
 
 
 # Here's the process to generate Data using GAN's:**
